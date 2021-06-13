@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>欢迎来到假装高深Club！ on 假装高深Club</title>
-    <link>https://example.com/</link>
+    <link>https://advanced-club.netlify.app/</link>
     <description>Recent content in 欢迎来到假装高深Club！ on 假装高深Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://advanced-club.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>05/21/2021 - 06/06/2021 Weekly Digest</title>
-      <link>https://example.com/2021-06-12-my-first-post-test/</link>
+      <link>https://advanced-club.netlify.app/2021-06-06-my-first-post-test/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2021-06-12-my-first-post-test/</guid>
+      <guid>https://advanced-club.netlify.app/2021-06-06-my-first-post-test/</guid>
       <description>我好困……呆滞.jpg
 生活 大概没很多要说的。严格要说的话就是因为最近开始有了复盘体系所以整个状态就变得更好了。然后生活也变得更有规律了。因为这个月的其中两个目标就是要建立night routine和每天少刷点手机，所以刷手机时间被限制了and晚上睡前都很规律地开始看书了。
 学习 法语上完了vivre en france a2，然后本来想看看coursera上面一节课，结果感觉好像有点略难——因为好多词我都不会啊呜呜，然后我就改成每天做点法语题和做法语听力这样。可能这样坚持一两周以后就会再次attempt coursera上面那节课吧。
@@ -40,10 +40,10 @@ frostpunk也是，就是在活不下去的时候讲人权有用嘛？但是在�
     
     <item>
       <title>About Me</title>
-      <link>https://example.com/about/</link>
+      <link>https://advanced-club.netlify.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://advanced-club.netlify.app/about/</guid>
       <description>如果你想要联系我
 Mastodon
 @vforvvn@o3o.ca
