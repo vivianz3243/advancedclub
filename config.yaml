@@ -34,7 +34,7 @@ params:
   includeBootstrapJs: false
   showActiveNav: true
   containerMaxWidth: 700px
-  dateFormat: 2006-09-12
+  dateFormat: Jan 2, 2006
   homeText: 欢迎来到假装高深club，介于我完全不懂web development所以这个网站大概还有很多bug
   footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
   hideFooter: false
