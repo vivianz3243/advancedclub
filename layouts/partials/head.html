@@ -5,7 +5,7 @@
   {{ $summary := trim (.Summary | plainify | htmlUnescape) "\n\r"
     | default .Title }}
   <meta name="description" content="{{ $summary }}">
-  <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
+  <link rel="stylesheet" href="{{ "css/custom.css" | absURL }}">
   {{ $title := print .Title " | " .Site.Title }}
   {{ if .IsHome }}
     {{ $title = .Site.Title }}
