@@ -1,4 +1,4 @@
-baseURL: https://advanced-club.netlify.app
+baseURL: https://advanced-club.netlify.app/
 languageCode: zh-CN
 title: 假装高深Club
 theme: vanilla-bootstrap-hugo-theme
@@ -41,7 +41,7 @@ params:
   hideFooter: false
   katex: true
   custom_css: css/custom.css
-  disqusShortname: "advanced-club"
+  disqusShortname: advanced-club
 
 markup:
   defaultMarkdownHandler: goldmark
