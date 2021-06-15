@@ -41,6 +41,7 @@ params:
   hideFooter: false
   katex: true
   custom_css: css/custom.css
+  disqusShortname: "advanced-club"
 
 markup:
   defaultMarkdownHandler: goldmark

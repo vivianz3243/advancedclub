@@ -4,5 +4,8 @@
 {{ partial "date-and-tags.html" . }}
 <br><br>
 {{ .Content }}
+{{ if .Params.disableComments }}
+Comments are disabled for this post
 
+{{ else }} {{ template "_internal/disqus.html" . }} {{ end }}
 {{ end }}
