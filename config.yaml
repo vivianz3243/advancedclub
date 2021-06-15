@@ -4,6 +4,7 @@ title: 假装高深Club
 theme: vanilla-bootstrap-hugo-theme
 googleAnalytics: UA-199400633-1
 disqusShortname: advanced-club
+hasCJKLanguage: true
 
 taxonomies:
   tag: tags
@@ -42,6 +43,8 @@ params:
   hideFooter: false
   katex: true
   custom_css: css/custom.css
+  ShowReadingTime: true
+
 
 
 markup:
