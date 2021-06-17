@@ -1,7 +1,8 @@
 ---
 title: 04/19/2021 - 04/25/2021 Weekly Digest
 date: "2021-04-25"
-tags: ["女权", "周记"]
+tags: ["女权"]
+categories: ["周记"]
 ---
 
 ### 生活

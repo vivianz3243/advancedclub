@@ -2,11 +2,19 @@
 
 <h1>{{ .Title }}</h1>
 
-{{ range .Data.Terms.Alphabetical }}
+{{ range .Site.Taxonomies.tags }}
   <a class="btn btn-outline-dark font-125" href="{{ .Page.RelPermalink }}">
     <span class="badge badge-dark">{{ .Count }}</span> {{ .Page.Title }}
   </a>
 
+{{ end }}
+<br>
+<br>
+<h1>Categories</h1>
+{{ range .Site.Taxonomies.categories }}
+  <a class="btn btn-outline-dark font-125" href="{{ .Page.RelPermalink }}">
+    <span class="badge badge-dark">{{ .Count }}</span> {{ .Page.Title }}
+  </a>
 {{ end }}
 
 {{ end }}

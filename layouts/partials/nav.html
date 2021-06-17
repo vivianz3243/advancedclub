@@ -10,6 +10,7 @@
       {{ $isMenu = or $isMenu (eq $currentPage.Title .Name) }}
       {{ $isMenu = or $isMenu (and (eq .Name "Blog") (eq $currentPage.Section "post")) }}
       {{ $isMenu = or $isMenu (and (eq .Name "Tags") (eq $currentPage.Section "tags")) }}
+      {{ $isMenu = or $isMenu (and (eq .Name "Categories") (eq $currentPage.Section "categories")) }}
       {{ if $isMenu }} 
         {{ $active = "nav-link-active" }}
       {{ end }}  

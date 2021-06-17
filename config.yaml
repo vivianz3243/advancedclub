@@ -8,6 +8,7 @@ hasCJKLanguage: true
 
 taxonomies:
   tag: tags
+  category: categories
 
 permalinks:
   post: /:filename/
@@ -24,10 +25,14 @@ menu:
     pre: edit
     url: /post/
     weight: 2
-  - name: Tags
-    pre: tag
+  - name: Tags/Categories
+    pre: folder
     url: /tags/
     weight: 3
+#  - name: Categories
+#    pre: folder
+#    url: /categories/
+#    weight: 4
   - name: About
     pre: smile
     url: /about/
