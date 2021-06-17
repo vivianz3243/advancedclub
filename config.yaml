@@ -5,6 +5,7 @@ theme: vanilla-bootstrap-hugo-theme
 googleAnalytics: UA-199400633-1
 disqusShortname: advanced-club
 hasCJKLanguage: true
+paginate: 10
 
 taxonomies:
   tag: tags

@@ -2,7 +2,7 @@
 
 <h1>{{ .Title }}</h1> 
 
-{{ range .Pages.ByDate.Reverse }}
+{{ range .Paginator.Pages.ByDate.Reverse }}
 <p>
   <a class="font-125" href="{{ .Permalink }}">{{ .Title }}</a>
   <br>
@@ -13,5 +13,6 @@
 </p>
 
 {{ end }}
+{{ template "_internal/pagination.html" . }}
 
 {{ end }}

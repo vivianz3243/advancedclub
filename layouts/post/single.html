@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{ $paginator := .Paginator }}
+
 
 <h1>{{ .Title }}</h1>
 {{ partial "date-and-tags.html" . }}
@@ -7,4 +9,5 @@
 {{ if .Params.disableComments }}
 Comments are disabled for this post
 {{ else }} {{ template "_internal/disqus.html" . }} {{ end }}
+
 {{ end }}
