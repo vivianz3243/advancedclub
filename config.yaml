@@ -50,6 +50,10 @@ params:
   katex: true
   custom_css: css/custom.css
   ShowReadingTime: true
+  google_fonts:
+    - ["Noto Serif", "300, 400, 700"]
+  fontgeneral: Noto Serif
+
 
 
 
