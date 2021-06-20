@@ -10,9 +10,11 @@
   <style>
     body {
         font-family: '{{ .Site.Params.fontgeneral }}';
+        font-weight: 400
     }
     code {
-       font-family: '{{ .Site.Params.fontgeneral }}'; 
+       font-family: '{{ .Site.Params.fontgeneral }}';
+       font-weight: 400 
     }
     </style>
   {{ $title := print .Title " | " .Site.Title }}
