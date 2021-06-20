@@ -5,6 +5,7 @@ tags:
 date: "2021-06-20"
 title: 06/14/2021 - 06/20/2021 Weekly Digest
 categories: ["周记"]
+draft: false
 ---
 ### 生活
 
@@ -50,4 +51,4 @@ SQL课我看完啦！然后下周打算尝试一下LeetCode了！虽然我现在
 
 每周例行花花时间！这周太阳非常大（过于大了我每天都在开空调）所以花花也开得很好！
 
-![06%2020%202021%20Weekly%20Digest%20480f8bbcddd44eb5a535a12edd9f3d94/51188CF5-5DC0-491B-A33B-F35A3AD52472.jpeg](06%2020%202021%20Weekly%20Digest%20480f8bbcddd44eb5a535a12edd9f3d94/51188CF5-5DC0-491B-A33B-F35A3AD52472.jpeg)
+![](https://github.com/vivianz3243/advancedclub/blob/05deced1fd21adc872ffefabd37a64365e54313a/resources/_gen/images/51188CF5-5DC0-491B-A33B-F35A3AD52472.jpeg?raw=true)
