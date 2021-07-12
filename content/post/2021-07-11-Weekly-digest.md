@@ -33,3 +33,7 @@ p.s. 我之前还想过，娱乐圈（？）出现的“学霸小哥哥”是不
 这周有点对滑板上头，不过打算冷却一下上头，如果下周我还记得起来滑板这件事的话，就去实体店看看滑板好了hhhh
 
 不过还是有点担忧，就是因为这边滑板也还挺男性化的，然后初学者如我担心自己被judge成poser啥的……社恐如我不需要任何额外目光。反正我还是看下周周末我想不想得起来这件事再说好了。
+
+And每周分享油管猫猫：
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MCxYi-v8_oQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
