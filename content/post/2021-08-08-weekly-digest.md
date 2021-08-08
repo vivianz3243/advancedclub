@@ -1,7 +1,12 @@
-# 08/08/2021
-
-Created: August 8, 2021 2:23 PM
-
+---
+tags:
+    - 读书
+    - 电影
+date: "2021-08-08"
+title: 08/02/2021 - 08/08/2021 Weekly Digest
+categories: ["周记"]
+draft: false
+---
 ### 生活
 
 唔结果因为各种摸鱼所以其实并没有很productive了很长时间，然后周总结也一直没写来着。立志下周稍微更努力一点好了！
@@ -30,9 +35,9 @@ Created: August 8, 2021 2:23 PM
 
 啊……父权制目前看了一半多，就很荒废所以没怎么看书，我先忏悔一下hhhh
 
-不过预计下周可以看完一本父权制和资本主义加一本mindfulness through depression！
+不过预计下周可以看完一本*父权制和资本主义*加一本*mindfulness through depression*！
 
-看完这两本打算看看第二性and滔天洪水。
+看完这两本打算看看*第二性*and*滔天洪水*。
 
 ### 游戏
 
@@ -48,6 +53,4 @@ Created: August 8, 2021 2:23 PM
 
 每周撒娇猫猫（1/1）：
 
- 
-
-[https://youtu.be/ymUspMTkBuA](https://youtu.be/ymUspMTkBuA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ymUspMTkBuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
