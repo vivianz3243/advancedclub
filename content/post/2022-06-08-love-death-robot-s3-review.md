@@ -8,7 +8,7 @@ draft: false
 ---
 这一季太多虫子and人类不行主题了。
 
-{{<bootstrap-table "table table-striped table-bordered">}}
+{{<bootstrap-table "table table-bordered">}}
 | 集数 | 主题是人类不行吗？ | 出现了节肢动物吗？ | 有血腥画面or打打杀杀吗？ |
 | --- | --- | --- | --- |
 | 三个机器人 | 是 | 否 | 否 |
